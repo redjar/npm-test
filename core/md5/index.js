@@ -1,0 +1,1 @@
+console.log('I am MD5 component');
